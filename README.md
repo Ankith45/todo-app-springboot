@@ -1,6 +1,6 @@
 # todo-app-springboot
 A simple Spring Boot Todo API with CRUD operations
-
+Dependencies and other additional files generated using spring intializer. 
 Consists of 4 layers:
 Model Layer: Defines the Assignment entity representing a task in the database.
 Repository Layer: AssignmentRepository interface handles database operations using Spring Data JPA.
